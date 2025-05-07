@@ -5,7 +5,7 @@
 <p>🚙  Currently working at Stellantis as an Electrical Engineering Intern focused on battery cell development and testing. </p>
 <p>🏁  Currently a member of the McMaster Battery Workforce Competition team, where I mainly contribute to PCB design, testing, and hardware validation. </p>
 <p>⚒️ Passionate about PCB layout and hardware design. </p>
-<p>🌐 Check out my portfolio here to explore my projcts. </p>
+<p>🌐 Check out my portfolio here to explore my projects. </p>
 
 ------------------------------------------------------------------------------------------------------
 
