@@ -1,7 +1,7 @@
 ![Banner Image](https://github.com/xingk8/xingk8/blob/main/images/Screenshot%202025-05-06%20at%209.33.09%20PM.png)
 ## 👋About Me
 
-<p>⚡️  I am a 3rd year electrical and biomedical engineering student at McMaster University </p>
+<p>⚡️  I am a 3rd year electrical and biomedical engineering student at McMaster University. </p>
 <p>🚙  Currently working at Stellantis as an Electrical Engineering Intern focused on battery cell development and testing. </p>
 <p>🏁  Currently a member of the McMaster Battery Workforce Competition team, where I mainly contribute to PCB design, testing, and hardware validation. </p>
 <p>⚒️ Passionate about PCB layout and hardware design. </p>
